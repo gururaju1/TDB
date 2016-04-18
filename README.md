@@ -8,7 +8,7 @@ all basic API calls for Tdbank payment services.
 
 Add this line to your application's Gemfile:
 
-    gem 'spree-tdbank', github: 'spree/spree-tdbank'
+    gem 'spree-tdbank', github: '/gururaju1/TDB'
 
 And then execute:
 
