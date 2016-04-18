@@ -44,8 +44,6 @@ authentication. The username and password need to be set as environment variable
 , TDBANK_NOTIFY_USER and TDBANK_NOTIFY_PASSWD, so that notifications can successfully
 persist on your application database.
 
-Please look into the tdbank gem wiki https://github.com/wvanbergen/tdbank/wiki and
-Tdbank Integration Manual for further info https://www.tdbank.com/developers/api/
 
 ## Testing
 
