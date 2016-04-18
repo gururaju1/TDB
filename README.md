@@ -1,7 +1,7 @@
 # Spree Tdbank Integration
 
 Easily integrates Tdbank payments into a Spree store. It works as a wrapper
-of the [awesome tdbank](https://github.com/wvanbergen/tdbank/) gem which contains
+of the [awesome tdbank](https://github.com/gururaju1/TDB/) gem which contains
 all basic API calls for Tdbank payment services.
 
 ## Installation
@@ -66,9 +66,7 @@ You can run external specs like this:
 bundle exec rspec spec --tag external
 ```
 
-## Test Credit Card Info
 
-https://support.tdbank.com/index.php?/Knowledgebase/Article/View/11/0/test-card-numbers
 
 ## Contributing
 
